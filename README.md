@@ -1,6 +1,6 @@
 # Portfolio
 
-- 加藤昌宙
+- カトゥーン
 - 連絡先 Email [dat.kato119@gmail.com](mailto:dat.kato119@gmail.com)
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2025年卒業予定
 
